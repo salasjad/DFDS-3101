@@ -1,0 +1,17 @@
+NET "rx" LOC = "N17";
+NET "reset" LOC = "B8";
+NET "clk" LOC = "V10";
+NET "play" LOC = "C9";
+NET "recordi" LOC = "T10"; 
+NET "loudspeaker" LOC = "V12"; 
+NET "txUt" LOC = "N18"; 
+
+NET "leds<0>" LOC = "U16";
+NET "leds<1>" LOC = "V16";
+NET "leds<2>" LOC = "U15";
+NET "leds<3>" LOC = "V15";
+NET "leds<4>" LOC = "M11";
+NET "leds<5>" LOC = "N11";
+NET "leds<6>" LOC = "R11";
+NET "leds<7>" LOC = "T11";
+
